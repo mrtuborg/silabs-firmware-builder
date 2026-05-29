@@ -1,3 +1,4 @@
+# trigger CI build
 name: Dongle Plus MG24 OpenThread RCP
 device: EFR32MG24A020F1024IM40
 base_project: src/openthread_rcp
